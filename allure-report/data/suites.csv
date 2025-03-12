@@ -1,0 +1,5 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","4902","should add a new task","chromium","Wed Mar 12 15:28:31 IST 2025","passed","Wed Mar 12 15:28:36 IST 2025","To-Do App Tests","TodoAppTests.spec.js","",""
+"","3024","should delete a todo","chromium","Wed Mar 12 15:28:31 IST 2025","passed","Wed Mar 12 15:28:34 IST 2025","To-Do App Tests","TodoAppTests.spec.js","",""
+"","6460","should edit an existing task","chromium","Wed Mar 12 15:28:31 IST 2025","passed","Wed Mar 12 15:28:38 IST 2025","To-Do App Tests","TodoAppTests.spec.js","",""
+"","3083","should edit a todo","chromium","Wed Mar 12 15:28:31 IST 2025","passed","Wed Mar 12 15:28:34 IST 2025","To-Do App Tests","TodoAppTests.spec.js","",""
