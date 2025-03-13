@@ -3,7 +3,7 @@ import { test, expect } from '@playwright/test';
 test.describe('To-Do App Tests', () => {
 
     test.beforeEach(async ({ page }) => {
-        await page.goto('http://localhost:8081'); // Update with your app's URL
+        await page.goto('http://localhost:8081/'); // Update with your app's URL
     });
 
     test('should add a new task', async ({ page }) => {
